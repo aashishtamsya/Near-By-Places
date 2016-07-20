@@ -21,17 +21,17 @@ Project covers basic fundamental UI elements in iOS like
 	-	[Credits](#credits)
 	-	[License](#license)
 
-### Prerequisites
+## Prerequisites
 
 - Basic computer programming experience.
 - Objective-C.
 - Candidate should have an experience with Xcode Interface.
 
-### Requirements
+## Requirements
 * iOS 9.0+
 * Xcode 7.0
 
-### Installation
+## Installation
 
 1. Download the zip or clone the repo to your desired directory.
 
@@ -39,12 +39,12 @@ Project covers basic fundamental UI elements in iOS like
 $ git clone https://github.com/aashishtamsya/Near-By-Places.git
 ```
 
-### Credits
+## Credits
 
 Aashish Tamsya [@ChiefAashish](https://www.twitter.com/chiefaashish),
 aashish.tamsya@gmail.com
 
-### License
+## License
 
 The content of [Near By Places](https://github.com/aashishtamsya/Near-By-Places.git) itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
 
