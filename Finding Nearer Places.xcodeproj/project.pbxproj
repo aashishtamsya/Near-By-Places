@@ -519,12 +519,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Felix IT Systems (VFRFP6ZDLY)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Felix IT Systems (VFRFP6ZDLY)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Abhijit Deshpande (MKG4U9BM4K)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Abhijit Deshpande (MKG4U9BM4K)";
 				INFOPLIST_FILE = "Finding Nearer Places/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d52700d9-a247-4cce-934c-0dc3011b9aa2";
+				PROVISIONING_PROFILE = "77ab7246-6597-414a-8c24-8e8b62692ba3";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -532,12 +533,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Felix IT Systems (VFRFP6ZDLY)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Felix IT Systems (VFRFP6ZDLY)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Abhijit Deshpande (MKG4U9BM4K)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Abhijit Deshpande (MKG4U9BM4K)";
 				INFOPLIST_FILE = "Finding Nearer Places/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d52700d9-a247-4cce-934c-0dc3011b9aa2";
+				PROVISIONING_PROFILE = "77ab7246-6597-414a-8c24-8e8b62692ba3";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
